@@ -10,7 +10,7 @@ class AverageSpeedView extends WatchUi.SimpleDataField {
          // units
         var settings = System.getDeviceSettings();
         _unitsSetting = settings.distanceUnits;
-        label = "Avg Speed";
+        label = "Avg. Speed";
     }
 
     // The given info object contains all the current workout
