@@ -1,7 +1,6 @@
 # averagespeed
-## Connect IQ Average Speed Data Field
 
-This project implements a SimpleDataField that displays average speed to two decimal places 
+This project implements a Garmin Connect IQ SimpleDataField that displays average speed to two decimal places 
 using the units (metric or statute) set on the device.
 
 ### Release
