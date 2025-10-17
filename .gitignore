@@ -1,1 +1,6 @@
 bin/*
+source/gen/*
+source/mir/*
+source/internal-mir/*
+source/AverageSpeed.prg
+source/AverageSpeed.prg.debug.xml
